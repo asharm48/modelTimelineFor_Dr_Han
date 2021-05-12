@@ -3,9 +3,10 @@
   "description": "you should place all the files in the same project folder\r you should install nodeJS and npm on your device",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
+ 
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "http-server ."
   },
   "repository": {
     "type": "git",
