@@ -1,0 +1,20 @@
+{
+  "name": "modeltimeline_for_dr_han",
+  "description": "you should place all the files in the same project folder\r you should install nodeJS and npm on your device",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asharm48/modelTimelineFor_Dr_Han.git"
+  },
+  "author": "asharm48",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asharm48/modelTimelineFor_Dr_Han/issues"
+  },
+  "homepage": "https://github.com/asharm48/modelTimelineFor_Dr_Han#readme"
+}
